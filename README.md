@@ -13,7 +13,7 @@
 
 Sou apaixonado por tecnologia e analise de dados. Atualmente estou focado em expandir meus conhecimentos através de cursos especializados, com o objetivo de me tornar um analista de dados senior. 
 
-Adoro trabalhar em equipe, aprender coisas novas e enfrentar desafios que me permitam crescer profissionalmente. Meu sonho é trabalhar fora do Brasil para ter experiências internacionais e conhecer novas culturas! 🌍
+Adoro trabalhar em equipe, aprender coisas novas e enfrentar desafios que me permitam crescer profissionalmente. Meu sonho é trabalhar fora do Brasil e obter experiências internacionais e conhecer novas culturas! 🌍
 
 ## 📱 Contatos
 
