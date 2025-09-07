@@ -90,25 +90,24 @@ Adoro trabalhar em equipe, aprender coisas novas e enfrentar desafios que me per
 
 ### 🎨 Design
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator">
-</div>
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🎯 Objetivos
 
-- [ ] Completar cursos de desenvolvimento web
-- [ ] Aprender React e Node.js
-- [ ] Desenvolver projetos mobile com Flutter
-- [ ] Contribuir para projetos open source
+- [ ] Analise de dados (XPERIUN
+- [ ] SQL E ORACLE
+- [ ] Criar projetos PowerBI
+- [ ] Contribuir para projetos open source e BI
 - [ ] Conseguir uma oportunidade internacional
 
 ## 📈 Metas para 2026
 
-- Dominar TypeScript e Node.js
+- Dominar as principais ferramentas do Mercado para Bancos gerenciavaeis (SQL/ORACLE)
 - Criar um portfólio completo
 - Participar de hackathons
 - Expandir rede profissional no LinkedIn
-- Aprender sobre DevOps e Cloud Computing
+- Alvo é na area de dados e BI
 
 ---
 
