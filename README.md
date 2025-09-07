@@ -1,6 +1,6 @@
-## Olá, tudo bem! 👋
+# 👩🏻‍💻 Cristian Souza
 
-# Sou Cristian Souza
+**`Analista de Dados e Suporte`**
 
 ## 🚀 Sobre Mim
 
