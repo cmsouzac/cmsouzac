@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, tudo bem! 👋
 
 # 👋 Olá! Eu sou o Cristian Souza
 
@@ -11,8 +11,7 @@
 
 ### 💡 Minha Jornada
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente estou focado em expandir meus conhecimentos através de cursos especializados, com o objetivo de me tornar um desenvolvedor de sistemas completo. 
-
+Sou apaixonado por tecnologia e analise de dados. Atualmente estou focado em expandir meus conhecimentos através de cursos especializados, com o objetivo de me tornar um analista de dados senior. 
 
 Adoro trabalhar em equipe, aprender coisas novas e enfrentar desafios que me permitam crescer profissionalmente. Meu sonho é trabalhar fora do Brasil para ter experiências internacionais e conhecer novas culturas! 🌍
 
@@ -22,7 +21,7 @@ Adoro trabalhar em equipe, aprender coisas novas e enfrentar desafios que me per
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cmsoouza)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmsouzaac/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cmsoouza)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cmsouzac)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:cmsouzaac@outlook.com)
 
 </div>
@@ -45,6 +44,17 @@ Adoro trabalhar em equipe, aprender coisas novas e enfrentar desafios que me per
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 </div>
 
+### 🤖 Artificial Intelligence and Bots
+
+ ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+ ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+ ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+
+ 🌐 Browsers
+
+ ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+ ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+ 
 ### 🗄️ Bancos de Dados
 
 <div align="center">
