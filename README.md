@@ -1,6 +1,6 @@
 ## Olá, tudo bem! 👋
 
-# 👋 Olá! Eu sou o Cristian Souza
+# Sou Cristian
 
 ## 🚀 Sobre Mim
 
